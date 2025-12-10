@@ -2,7 +2,7 @@
   
 # 🚀 TaskGenix
 
-<img src="../image/logo (2).png" alt="TaskGenix Logo" width="200"/>
+<img src="../image/logo (2).png" alt="TaskGenix Logo" width="150"/>
 
 ### *"Let AI Handle The Notes — You Lead The Work"*
 
