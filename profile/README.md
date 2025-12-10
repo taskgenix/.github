@@ -42,17 +42,17 @@ We meet the increasing demand of people in the digital age: **"Quick meetings �
 <div align="center">
 
 ### Intro
-<img src="../image/PL2.png" alt="Task Management" width="800"/>
+<img src="../image/PL2.png" alt="Task Management" width="250"/>
 
 ### Home & Overview
-<img src="../image/PL9.png" alt="Dashboard" width="800"/>
+<img src="../image/PL9.png" alt="Dashboard" width="250"/>
 
 
 ### 📋 Task Management
-<img src="../image/PL3.png" alt="Task Management" width="800"/>
+<img src="../image/PL3.png" alt="Task Management" width="250"/>
 
 ### 📊 Analytics View
-<img src="../image/PL4.png" alt="Analytics" width="800"/>
+<img src="../image/PL4.png" alt="Analytics" width="250"/>
 
 ### 📱 Mobile Experience
 <p>
